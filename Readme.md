@@ -56,8 +56,10 @@
 ## Contact
 - QQ:603043194
 - E-Mail: jasonandy@hotmail.com
-- QQ交流群
-![](http://upload-images.jianshu.io/upload_images/7802425-ea543643f9b52550.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+**QQ交流群**
+![](http://upload-images.jianshu.io/upload_images/7802425-ea543643f9b52550.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
 ## License
 开源协议 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
