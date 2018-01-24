@@ -17,6 +17,23 @@
     自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。
     别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。
 
+
+### 树莓派
+
+> Tech List
+- Rasberry Pi 2B
+- PI4J
+
+> ToDo
+- [X] Kodi  [官网](https://kodi.tv/)
+- [ ] Cloud
+- [ ] RestfulApi开放接口
+- [ ] 嵌入微信公众号 or 小程序
+- [ ] 接入云平台  [机智云](https://dev.gizwits.com)
+- [ ] MARSIOT
+- [ ] owncloud [官网](https://owncloud.org/)
+
+
 ### 相关技术
 - Spring
 - SpringMVC
@@ -25,37 +42,16 @@
 - Dubbox
 - ApiDocs
 
-- PI4J[GitHub](https://github.com/Pi4J/pi4j.git)
+- PI4J [GitHub](https://github.com/Pi4J/pi4j.git)
 
 
-
-
-### 代码结构图
-
-### 逻辑结构图
-
-### 树莓派
-
-> Tech
-- Rasberry Pi 2B
-- PI4J
-
-> Todo
-- [X] Kodi [官网](https://kodi.tv/)
-- [ ] Cloud
-- [ ] RestfulApi开放接口
-- [ ] 嵌入微信公众号 or 小程序
-- [ ] 接入云平台[机智云](https://dev.gizwits.com)
-
-
-
-### FAQ
-- 树莓派
-
-### ENV
+### Env
 - JDK8
 - PI4J
 
+### FAQ
+- 通信问题
+- 树莓派整合机智云实例
 
 ## Contact
 - QQ:603043194
