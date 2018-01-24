@@ -9,10 +9,23 @@
 * describe：树莓派2B + SS + PI4J 搭建的云端web控制树莓派项目
 
 ### 简述:
-    某宝入手一个树莓派2B，打算搭建KODI,或者其他好玩的东西，特次搭建一个Web项目
-    来通过PI4J来实现远程控制树莓派 下达操作指令
-    后期申请机智云搭建内网穿透等实现远程控制
-    提供开放API接口(接口鉴权) 基于Dubbox [restful webservice]
+    某宝入手一个树莓派2B，打算搭建KODI,或者其他好玩的东西，脑热搭建一个Web项目，结合PI4J，来实现对树莓派的控制！
+    后期将用Python来搭建Web项目，限于现阶段Python水平有限。
+    Raspberry Pi(中文名为“树莓派”,简写为RPi，(或者RasPi / RPI)
+    是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于Linux。
+    随着Windows 10 IoT的发布，我们也将可以用上运行Windows的树莓派。
+    自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。
+    别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。
+
+### 相关技术
+- Spring
+- SpringMVC
+- LogBack
+- FreeMark
+- Dubbox
+- ApiDocs
+
+- PI4J[GitHub](https://github.com/Pi4J/pi4j.git)
 
 
 
@@ -23,14 +36,17 @@
 
 ### 树莓派
 
-> Tech Tree
+> Tech
 - Rasberry Pi 2B
 - PI4J
 
 > Todo
-- [X] Kodi
+- [X] Kodi [官网](https://kodi.tv/)
 - [ ] Cloud
-- [ ] RestfulApi 开放接口
+- [ ] RestfulApi开放接口
+- [ ] 嵌入微信公众号 or 小程序
+- [ ] 接入云平台[机智云](https://dev.gizwits.com)
+
 
 
 ### FAQ
