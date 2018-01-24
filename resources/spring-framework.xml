@@ -23,9 +23,6 @@
                 <value>classpath*:/jdbc/jdbc.properties</value>
                 <!-- 引入log4j配置文件-->
                 <value>classpath*:/log4j.properties</value>
-                <!-- mongodb 配置文件 -->
-                <value>classpath*:/mongodb/mongodb_server.properties</value>
-                <value>classpath*:/mongodb/mongodb_entity.properties</value>
             </list>
         </property>
     </bean>

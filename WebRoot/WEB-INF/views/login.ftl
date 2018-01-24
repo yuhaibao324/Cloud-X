@@ -4,13 +4,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
     <meta http-equiv="content-type" content="text/html;charset=utf-8">
-    <title>Ucaner-MongoDB</title>
+    <title>Ucaner-CloudX</title>
 </head>
 <body> 
 <div>
 	<div>
         <div>
-            <h1>MongoDB</h1>
+            <h1>cloud</h1>
+            <h1>Wellcome to Contoller Center!</h1>
         </div>
     </div>
 </div>

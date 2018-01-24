@@ -5,7 +5,7 @@
 
 # Cloud-X
 * Project：Cloud-X
-* OfficialWebsite：http://mongo.ucaner.cn
+* OfficialWebsite：http://cloud.ucaner.cn
 * describe：树莓派2B + SS + PI4J 搭建的云端web控制树莓派项目
 
 ### 简述:
