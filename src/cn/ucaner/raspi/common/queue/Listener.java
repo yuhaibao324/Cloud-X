@@ -41,9 +41,10 @@ public abstract class Listener extends Thread implements QueueBase{
     
     private String mnsEndPoint;
     
+    @Override
     public String getQueueName() {
     	return "";
-	}
+    }
     
     protected abstract String consume(String msg);
 

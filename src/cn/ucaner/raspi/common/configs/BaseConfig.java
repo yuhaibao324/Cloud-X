@@ -22,4 +22,35 @@ package cn.ucaner.raspi.common.configs;
 * @version    V1.0
  */
 public class BaseConfig {
+	
+    private String accessId;
+    
+    private String accessKey;
+    
+    private String mnsEndPoint;
+
+	public String getAccessId() {
+		return accessId;
+	}
+
+	public void setAccessId(String accessId) {
+		this.accessId = accessId;
+	}
+
+	public String getAccessKey() {
+		return accessKey;
+	}
+
+	public void setAccessKey(String accessKey) {
+		this.accessKey = accessKey;
+	}
+
+	public String getMnsEndPoint() {
+		return mnsEndPoint;
+	}
+
+	public void setMnsEndPoint(String mnsEndPoint) {
+		this.mnsEndPoint = mnsEndPoint;
+	}
+    
 }

@@ -41,6 +41,7 @@ public abstract class Sender implements QueueBase{
     
     private String mnsEndPoint;
     
+    @Override
     public String getQueueName() {
     	return "";
     }

@@ -24,5 +24,7 @@ package cn.ucaner.raspi.common.base;
  */
 public interface QueueBase {
 	
+	public String getQueueName();
+	
 	
 }
