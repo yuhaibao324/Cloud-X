@@ -17,6 +17,7 @@
 	</properties>
 
 	<dependencies>
+	
 		<!-- https://mvnrepository.com/artifact/com.alibaba/dubbo -->
 		<dependency>
 		    <groupId>com.alibaba</groupId>
@@ -198,10 +199,18 @@
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 		</dependency>
+		
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<version>1.16.18</version>
+		</dependency>
+		
+		<!-- 引入Pi4j -->
+		<dependency>
+		    <groupId>com.pi4j</groupId>
+		    <artifactId>pi4j-core</artifactId>
+		    <version>1.1</version>
 		</dependency>
 
 	</dependencies>

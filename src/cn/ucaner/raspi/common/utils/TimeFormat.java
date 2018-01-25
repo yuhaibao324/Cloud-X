@@ -5,8 +5,19 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-
+/**
+* @Package：cn.ucaner.raspi.common.utils   
+* @ClassName：TimeFormat   
+* @Description：   <p> TimeFormat</p>
+* @Author： - DaoDou   
+* @CreatTime：2018年1月25日 上午10:38:45   
+* @Modify By：   
+* @ModifyTime：  2018年1月25日
+* @Modify marker：   
+* @version    V1.0
+ */
 public class TimeFormat {
+	
     public static String format(Date date){
         SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         return df.format(date);

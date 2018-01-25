@@ -33,14 +33,13 @@ public class LogbackConfigListener implements ServletContextListener{
 		
     }
 	
-	@Override
 	public void contextInitialized(ServletContextEvent sce) {
 		WebLogbackConfigurer.initLogging(sce.getServletContext());
 	}
 
-	@Override
 	public void contextDestroyed(ServletContextEvent sce) {
 		WebLogbackConfigurer.shutdownLogging(sce.getServletContext());
 	}
+
 
 }

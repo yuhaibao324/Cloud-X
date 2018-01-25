@@ -1,6 +1,5 @@
 package cn.ucaner.raspi.common.utils;
 
-
 import com.alibaba.fastjson.JSONObject;
 
 import java.io.BufferedReader;
@@ -11,6 +10,17 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.Arrays;
 
+/**
+* @Package：cn.ucaner.raspi.common.utils   
+* @ClassName：HttpUtils   
+* @Description：   <p> HttpUtils</p>
+* @Author： - DaoDou   
+* @CreatTime：2018年1月25日 上午10:38:08   
+* @Modify By：   
+* @ModifyTime：  2018年1月25日
+* @Modify marker：   
+* @version    V1.0
+ */
 public class HttpUtils {
 
     /**
