@@ -26,7 +26,7 @@
 
 > ToDo
 - [X] Kodi  [官网](https://kodi.tv/)
-- [ ] Cloud
+- [ ] `Cloud`
 - [ ] RestfulApi开放接口
 - [ ] 嵌入微信公众号 or 小程序
 - [ ] 接入云平台  [机智云](https://dev.gizwits.com)
@@ -51,7 +51,7 @@
 
 ### FAQ
 - 通信问题
-- 树莓派整合开放云
+- `树莓派整合开放云`
 
 ## Contact
 - QQ:603043194

@@ -197,6 +197,24 @@
 			<!--<scope>test</scope>-->
 		</dependency>
 
+		<!-- https://help.aliyun.com/document_detail/27508.html -->
+		<dependency>
+			<groupId>com.aliyun.mns</groupId>
+			<artifactId>aliyun-sdk-mns</artifactId>
+			<version>1.1.8</version>
+			<classifier>jar-with-dependencies</classifier>
+		</dependency>
+
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.16.18</version>
+		</dependency>
+
 	</dependencies>
 	
 	<!-- 引入阿里云maven仓库 -->
